@@ -1,3 +1,11 @@
+<!--
+    <meta name="description" content=" Explore modern application build and deployment essentials with the CDI/CD with TeamCity From Beginner to Advanced
+  course. Enhance your continuous integration and delivery skills, and streamline your development workflow. Enrol now to build and deploy the modern way!">
+
+<meta name="keywords" content="CI/CD, JetBrains, TeamCity, Bamboo, Atlassian, Jenkins, CI/CD Course, CICD Course, TeamCity Course, Bamboo Course">
+  -->
+  
+    
 # CDI/CD with TeamCity From Beginner to Advanced
 
 
