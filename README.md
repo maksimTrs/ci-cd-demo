@@ -19,5 +19,13 @@ This repository includes the sample code used in an online course about CI/CD wi
 
 For more details and to enrol in the course, click [here](https://www.udemy.com/course/teamcity-2017-build-and-deploy-the-modern-way/?referralCode=07E28EF6E4C2CE868D58).
 
+## More Free Courses on YouTube
 
-Happy learning!
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](http://www.youtube.com/@FreeTechnologyLectures)
+
+Subscribe to the Free Technology and Technology Management Courses channel for free lectures about Coding, DevOps, and Technology Management. [Here is the link to the YouTube channel](http://www.youtube.com/@FreeTechnologyLectures).
+
+
+
+
+
