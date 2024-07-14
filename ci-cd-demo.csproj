@@ -8,7 +8,7 @@
 
     <ItemGroup>
         <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.10" />
-        <PackageReference Include="Microsoft.AspNetCore.Cors" Version="6.0.10" />
+        <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="6.0.10" />
         <PackageReference Include="NEST" Version="7.17.5" />
         <PackageReference Include="Polly" Version="7.2.3" />
